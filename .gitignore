@@ -1,1 +1,2 @@
 .idea/*.xml
+board/__pycache__/
